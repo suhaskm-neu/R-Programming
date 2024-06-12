@@ -23,4 +23,3 @@ detach("package:datasets", unload = TRUE)   # For base
 # Clear console
 cat("\014")  # ctrl+L
 
-# Clear mind :)
