@@ -9,7 +9,7 @@ library(datasets)  # Load/unload base packages manually
 
 ?mtcars
 head(mtcars)
-
+summary(mtcars2) ### STATISTICS SUMMARY OF THE DATAFRAME
 # PLOTS ####################################################
 
 # Good to first check univariate distributions
