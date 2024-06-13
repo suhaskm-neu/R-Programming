@@ -23,7 +23,7 @@ p_help(psych, web = F)  # Opens help in R Viewer
 
 # DESCRIBE() ###############################################
 
-# For quantitative variables only.
+## IMPORTANT: For quantitative variables only. ##
 
 describe(iris$Sepal.Length)  # One quantitative variable
 describe(iris)               # Entire data frame
